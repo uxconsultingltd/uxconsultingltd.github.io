@@ -364,7 +364,39 @@
   font-size:14px;
   text-align:left;
 }
+.fun_fact_-_paragraph {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#000000;
+  text-align:left;
+}
 .new_style1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.fun_fact_-_title {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+  color:#000000;
+}
+.btn_-_read_more_fun_facts {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#0099FF;
+}
+.fun_fact_-_elipse_pagination {
+}
+.new_style2 {
 }
 .new_style11 {
 }
